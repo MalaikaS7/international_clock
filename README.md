@@ -1,4 +1,4 @@
 # international_clock
-# goodmorning- fro midnight to noon
-# good afternoon - from noon to 5 of the evening
-# good night- from evening to midnight
+# Good morning- from midnight to noon
+# Good afternoon - from noon to 5 of the evening
+# Good night- from evening to midnight
